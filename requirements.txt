@@ -3,5 +3,4 @@ scikit-learn
 streamlit
 tensorflow
 numpy
-opencv-python-headless
-pillow
+PIL
