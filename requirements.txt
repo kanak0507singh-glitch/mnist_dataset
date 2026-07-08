@@ -3,4 +3,4 @@ scikit-learn
 streamlit
 tensorflow
 numpy
-PIL
+Pillow
